@@ -1,6 +1,6 @@
-# Calendar and Event Manager App
+# Dynamic Event Calendar App
 
-This is a feature-rich **Calendar and Event Manager App** that allows users to view a calendar, add, filter, and manage events with ease. The app is designed to be responsive and user-friendly.
+This is a feature-rich **Dynamic Event Calendar App** that allows users to view a calendar, add, filter, and manage events with ease. The app is designed to be responsive and user-friendly.
 
 ---
 
@@ -38,8 +38,8 @@ Follow the steps below to set up and run the app on your local machine:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/sanajjadhav15/calendar-event-manager.git
-   cd calendar-event-manager
+   git clone https://github.com/sanajjadhav15/Dynamic-event-calendar.git
+   cd Dynamic-event-calendar
 
    ```
 
