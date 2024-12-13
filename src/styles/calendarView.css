@@ -12,7 +12,7 @@
   padding: 20px;
   font-family: "Inter", sans-serif;
   color: #1e3a8a;
-  height: 100%; /* Full viewport height for vertical centering */
+  height: 100%;
 }
 
 /* Title Styles */
@@ -26,9 +26,9 @@
 
 /* Calendar Styles */
 .react-calendar {
-  border: 2px solid #34d199; /* Green border to differentiate */
-  border-radius: 12px; /* Rounded corners */
-  padding: 10px; /* Padding around the calendar */
+  border: 2px solid #34d199;
+  border-radius: 12px;
+  padding: 10px; 
   font-family: "Inter", sans-serif;
 }
 
